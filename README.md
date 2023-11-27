@@ -1,4 +1,4 @@
-![Imgur](https://imgur.com/a/DzMSOe5)
+![Imgur](https://imgur.com/a/DzMSOe5.png)
 ### Hi there 👋
 
 <!--
