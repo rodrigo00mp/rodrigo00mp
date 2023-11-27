@@ -1,4 +1,4 @@
-![Banner] (https://imgur.com/a/TenOf03.png)
+![Banner](https://imgur.com/a/TenOf03.png)
 ### Hi there 👋
 
 <!--
