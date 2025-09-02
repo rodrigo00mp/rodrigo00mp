@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🎯 I’m currently working on web apps using FastAPI and Vue.js.<br>🤝 I’m looking to collaborate on web development and software projects.<br>🧠 I’m looking for help with improving my cloud and backend skills.<br>🌱 I’m currently learning more about AWS, foundation models, and AI Engineering.
+🎯 I’m currently working on web apps using Django and Vue.js.<br>🤝 I’m looking to collaborate on web development and software projects.<br>🧠 I’m looking for help with improving my cloud and backend skills.<br>🌱 I’m currently learning more about AWS, foundation models, and AI Engineering.
 
 
 ## 🌐 Socials:
